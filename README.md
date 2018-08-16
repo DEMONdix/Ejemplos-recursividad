@@ -31,4 +31,4 @@ def mod(a,b):
 #print("Ingrese un numero")
 #b=int(input())
 #print(mod(a,b))
-</code>
+<code>
