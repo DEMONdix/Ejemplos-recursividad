@@ -1,5 +1,5 @@
 """
-Método que conviete un número a binarios 
+MÃ©todo que conviete un nÃºmero a binarios 
 """
 def binario(n):
     if n/2 == 0:
@@ -8,7 +8,7 @@ def binario(n):
         return (n%2) + 10 * binario(n//2)
 
 
-#print("Ingrese un número decimal")
+#print("Ingrese un nÃºmero decimal")
 #print(binario(int(input())))
 
 """
