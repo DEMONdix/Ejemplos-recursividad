@@ -1,7 +1,9 @@
 # Ejemplos-recursividad
 ejemplos basicos del uso de recursividad
-#
-<code>
+Nicolás Meneses Guerrero 			20161020533
+Camilo Ramirez Alarcon   			20142020078
+### Codigo
+<pre><code>
   """
 Método que conviete un número a binarios 
 """
