@@ -1,8 +1,8 @@
-# Ejemplos-recursividad
-ejemplos basicos del uso de recursividad
-*Nicolás Meneses Guerrero 			20161020533
-*Camilo Ramirez Alarcon   			20142020078
-### Codigo
+## Ejemplos-recursividad
+  ejemplos basicos del uso de recursividad
+    *Nicolás Meneses Guerrero 			20161020533
+    *Camilo Ramirez Alarcon   			20142020078
+## Codigo
 <pre><code>
   """
 Método que conviete un número a binarios 
@@ -18,7 +18,7 @@ def binario(n):
 #print(binario(int(input())))
 
 <code>
-<pre><code>
+  
 """
 Metodo que retorna el modulo de dos valores
 """
